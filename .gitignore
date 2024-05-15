@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+qodana.yaml
+manager.yaml
+tmp
+test
